@@ -1,0 +1,36 @@
+.intro {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo-intro {
+    text-align: center;
+    color: #fff;
+}
+
+.titulo-intro h1 {
+    margin: 200px 0px 0px 0px;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.btn-intro{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 400px;
+}
+
+.btn-intro a {
+    display: inline-block; /*permite criar altura e largura*/
+    margin: 0 15px;
+    width: 220px;
+    height: 40px;
+    padding: 0; 
+    line-height: 40px;
+    font-size: 12px;
+    font-weight: 300;
+    text-decoration: none;
+    background-color: #d9d9d9;
+    color: #000000;
+}
