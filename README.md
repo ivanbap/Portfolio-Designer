@@ -1,10 +1,10 @@
-# 🧑‍💻 Projeto pessoal profissional
+# 🧑‍💻 Portofolio Designer de Interiores
 
-- O site está totalmente estruturado e estilizado usando HTML e CSS.
-- A próxima fase de desenvolvimento incluirá a implementação de JavaScript para adicionar interatividade e funcionalidades dinâmicas (como formulário de contato, modo escuro, etc.).
+- A página se trata de um portfolio pessoal do Designer de Interiores Rafael Baptistella (meu irmão), essa página servirá futuramente para divulgação de seu trabalho.
 
 ## 🖥️ Preview
 
 Confira um pouco da aparência atual do projeto:
 
-<img width="1648" height="902" alt="Image" src="https://github.com/user-attachments/assets/fa89ada9-98e3-40c0-9c86-9a806f8fbf94" />
+<img width="1893" height="921" alt="image" src="https://github.com/user-attachments/assets/c3eaa407-dd20-4685-b7f0-05119792f5d5" />
+
