@@ -12,14 +12,32 @@
     gap: 10px;
     justify-content: center;
     font-style: italic;
+
+    a {
+        text-decoration: none;
+        letter-spacing: 0.5px;
+        color: #fff;
+        gap: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    a:hover {
+        color: #adadad;
+    }
 }
 
-.header-menu a {
-    text-decoration: none;
-    letter-spacing: 0.5px;
-    color: #fff;
-    gap: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: 500;
+@media(max-width: 800px) {
+    .header{
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .header-menu{
+        flex-direction: row;
+        gap: 10px;
+    }
 }
